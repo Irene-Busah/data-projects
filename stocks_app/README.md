@@ -27,7 +27,7 @@ Welcome to the Stocks Analysis App! This application allows users to analyze sto
 
 ### Deployment
 
-This app is deployed and accessible at [link-to-your-deployed-app](link-to-your-deployed-app).
+This app is deployed and accessible at [link-to-your-deployed-app](https://fortune-stock-analysis-app.streamlit.app/).
 
 ### Installation and Setup
 

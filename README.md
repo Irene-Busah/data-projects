@@ -4,7 +4,7 @@ Welcome to my data projects repository! This folder contains various projects re
 
 1. **Stocks Analysis App**
    - This application provides insights into stock prices, technical indicators, news sentiment, portfolio tracking, and price predictions.
-   - Deployed App: [Stocks Analysis App](link-to-your-deployed-app)
+   - Deployed App: [Stocks Analysis App](https://fortune-stock-analysis-app.streamlit.app/)
 
 2. **Project 2**
    - Description of Project 2.
