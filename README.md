@@ -6,11 +6,10 @@ Welcome to my data projects repository! This folder contains various projects re
    - This application provides insights into stock prices, technical indicators, news sentiment, portfolio tracking, and price predictions.
    - Deployed App: [Stocks Analysis App](https://fortune-stock-analysis-app.streamlit.app/)
 
-2. **Project 2**
-   - Description of Project 2.
+2. **Fitness Trend Data Ingestion**
+   - Analyze global fitness trends from 2018 to 2023 using comprehensive Google Trends data. Explore the popularity of keywords like 'workout,' 'home workout,' 'gym workout,' and 'home gym' globally and by country over a five-year period.
+   - Deployed App: [Fitness Trend Data Ingestion](https://www.kaggle.com/datasets/irenebusah/fitness-market-dataset)
 
-3. **Project 3**
-   - Description of Project 3.
 
 Each project directory includes its own README file with detailed instructions on usage, setup, and deployment. Explore each project to learn more!
 
