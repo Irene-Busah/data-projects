@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-phone_data = pd.read_csv("/mobile_market_analysis/phones_data.csv", index_col=0)
+phone_data = pd.read_csv("https://raw.githubusercontent.com/Irene-Busah/data-projects/main/mobile_market_analysis/phones_data.csv", index_col=0)
 
 # cleaning the dataset
 phone_data.fillna({"lowest_price": phone_data["lowest_price"].mean()}, inplace=True)
