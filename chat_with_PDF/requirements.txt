@@ -1,0 +1,4 @@
+# Specify Python package requirements for your project here (e.g., Mako==1.1.1). If your project doesn't require these, you can leave this file unchanged or delete it.
+python==3.10.8
+pysqlite3-binary==0.5.2
+
